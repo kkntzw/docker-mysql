@@ -9,7 +9,7 @@ MySQL 向けの Docker を用いた開発環境
 1. [当リポジトリを Clone する。](#当リポジトリを-clone-する)
 1. [`docker-compose.example.yml` から `docker-compose.yml` に拡張子を変更する。](#docker-composeexampleyml-から-docker-composeyml-に拡張子を変更する)
 1. [`docker-compose.yml` の環境変数を設定する。](#docker-composeyml-の環境変数を設定する)
-1. [`1.0__grant_privileges.sql` のユーザ名を設定する。](#10grantprivilegessql-のユーザ名を設定する)
+1. [`1.0__grant_privileges.sql` のユーザ名を設定する。](#10__grant_privilegessql-のユーザ名を設定する)
 1. [コンテナを構築する。](#コンテナを構築する)
 
 ### 当リポジトリを Clone する
